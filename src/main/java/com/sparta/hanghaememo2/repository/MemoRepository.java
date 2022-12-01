@@ -1,7 +1,7 @@
-package com.sparta.hanghaememo.repository;
+package com.sparta.hanghaememo2.repository;
 
 
-import com.sparta.hanghaememo.entity.Memo;
+import com.sparta.hanghaememo2.entity.Memo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
